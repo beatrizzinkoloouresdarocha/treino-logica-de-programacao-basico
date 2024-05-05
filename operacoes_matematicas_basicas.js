@@ -31,3 +31,11 @@ divisao()
 
 //fazer o multiplicacao
 
+function multiplicacao() {
+    let primeiro_numero = 100
+    let segundo_numero = 10
+    let resultado_multiplicacao =primeiro_numero * segundo_numero
+    console.log('Resultado ='  + resultado_multiplicacao)
+}
+
+multiplicacao()
