@@ -93,4 +93,14 @@ compararIdades(idade1, idade2);//A segunda idade (25) é maior que a primeira id
 
 //8) Calculadora de IMC:
 
+function calculoimc(){
+    let peso = 100;// peso em kg
+    let altura=1.70; // altura em metros
+
+
+    let imc = peso / (altura * altura)
+    console.log("resultado do calculo imc: " + imc.toFixed(2));
+}
+
+calculoimc()
 
