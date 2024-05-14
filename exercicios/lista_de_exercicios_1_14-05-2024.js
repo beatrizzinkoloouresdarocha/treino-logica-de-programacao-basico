@@ -106,3 +106,10 @@ calculoimc()
 
 // 9) Calcule a média de três notas:
 
+let nota1 = 100;
+let nota2 = 80;
+let nota3 =60;
+
+let mediadasnotas =(nota1 + nota2 +nota3) / 3
+
+console.log=("mediadasnotas + /3")
