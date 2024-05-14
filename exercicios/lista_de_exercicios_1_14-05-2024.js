@@ -46,3 +46,6 @@ function verificarParidade(numero) {
 // Exemplo de uso
 let numero = 10;
 console.log(`O número ${numero} é ${verificarParidade(numero)}.`);
+
+//5 Comparação de duas strings:
+
