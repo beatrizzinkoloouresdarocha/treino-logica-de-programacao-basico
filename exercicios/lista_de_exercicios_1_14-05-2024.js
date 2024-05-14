@@ -27,3 +27,6 @@ function verificarIdadeParaDirigir() {
 
 verificarIdadeParaDirigir();
 
+//3) Conversão de temperatura:
+
+
