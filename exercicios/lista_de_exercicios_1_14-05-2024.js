@@ -73,5 +73,20 @@ var taxaDesconto = 20.0; // exemplo em porcentagem
 var precoFinal = CalculadoraDesconto(precoOriginal, taxaDesconto);
 console.log("Preço final após desconto: R$ " + precoFinal.toFixed(2));
 
-//7) Comparação de duas idades:
+// 7) Comparação de duas idades:
 
+function compararIdades(idade1, idade2) {
+    if (idade1 > idade2) {
+        console.log(`A primeira idade (${idade1}) é maior que a segunda idade (${idade2}).`);
+    } else if (idade1 < idade2) {
+        console.log(`A segunda idade (${idade2}) é maior que a primeira idade (${idade1}).`);
+    } else {
+        console.log(`Ambas as idades são iguais (${idade1} e ${idade2}).`);
+    }
+}
+
+// Exemplo de uso
+let idade1 = 22; // Pode ser substituído por entrada do usuário
+let idade2 = 25; // Pode ser substituído por entrada do usuário
+
+compararIdades(idade1, idade2);//A segunda idade (25) é maior que a primeira idade (22).
