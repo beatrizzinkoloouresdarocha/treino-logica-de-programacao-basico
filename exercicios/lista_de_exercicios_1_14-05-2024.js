@@ -59,5 +59,16 @@ console.log(string1 === string2); // true, porque os valores e os tipos são igu
 console.log(string1 == string3);  // false, porque os valores são diferentes
 console.log(string1 === string3); // false, porque os valores são diferentes
 
-//6) Calculadora de desconto:
+// 6) Calculadora de desconto:
 
+function CalculadoraDesconto(precoOriginal, taxaDesconto) {
+    var valorDesconto = precoOriginal * (taxaDesconto / 100);
+    var precoFinal = precoOriginal - valorDesconto; // Corrigi a operação de subtração
+    return precoFinal;
+}
+
+var precoOriginal = 100.0; // exemplo em reais
+var taxaDesconto = 20.0; // exemplo em porcentagem
+
+var precoFinal = CalculadoraDesconto(precoOriginal, taxaDesconto);
+console.log("Preço final após desconto: R$ " + precoFinal.toFixed(2));
