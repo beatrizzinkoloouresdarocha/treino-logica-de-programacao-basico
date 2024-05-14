@@ -12,5 +12,18 @@ function soma() {
 soma() //dessa forma que é chamada a execução de uma função nomedafuncao()
 
 
+// 2) Verifique a idade para dirigir:
 
+function verificarIdadeParaDirigir() {
+    let idade = 15; // Você pode substituir por qualquer idade ou solicitar ao usuário
+    let idadeMinimaParaDirigir = 18;
+    
+    if (idade >= idadeMinimaParaDirigir) {
+        console.log('Você pode dirigir.');
+    } else {
+        console.log('Você ainda não pode dirigir.');
+    }
+}
+
+verificarIdadeParaDirigir();
 
