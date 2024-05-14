@@ -32,3 +32,6 @@ verificarIdadeParaDirigir();
 let temperaturaCelsius =20 ; //temperatura em Celsius
 let temperaturaFahrenheit = (temperaturaCelsius * 9/5) + 32;
 console.log('A temperatura em Fahrenheit é: ' + temperaturaFahrenheit);
+
+//4) Verificação de número par ou ímpar:
+
