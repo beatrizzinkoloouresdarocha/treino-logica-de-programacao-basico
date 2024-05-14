@@ -58,3 +58,6 @@ console.log(string1 == string2);  // true, porque os valores são iguais
 console.log(string1 === string2); // true, porque os valores e os tipos são iguais
 console.log(string1 == string3);  // false, porque os valores são diferentes
 console.log(string1 === string3); // false, porque os valores são diferentes
+
+//6) Calculadora de desconto:
+
