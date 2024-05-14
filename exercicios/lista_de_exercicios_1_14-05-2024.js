@@ -104,5 +104,7 @@ function calculoimc(){
 
 calculoimc()
 
-//9) Calcule a média de três notas:
+// 9) Calcule a média de três notas:
+
+
 
