@@ -72,3 +72,6 @@ var taxaDesconto = 20.0; // exemplo em porcentagem
 
 var precoFinal = CalculadoraDesconto(precoOriginal, taxaDesconto);
 console.log("Preço final após desconto: R$ " + precoFinal.toFixed(2));
+
+//7) Comparação de duas idades:
+
