@@ -47,5 +47,14 @@ function verificarParidade(numero) {
 let numero = 10;
 console.log(`O número ${numero} é ${verificarParidade(numero)}.`);
 
-//5 Comparação de duas strings:
+// 5) Comparação de duas strings:
 
+// Exemplo de comparação de igualdade == e ===
+let string1 = "Olá";
+let string2 = "Olá";
+let string3 = "Mundo";
+
+console.log(string1 == string2);  // true, porque os valores são iguais
+console.log(string1 === string2); // true, porque os valores e os tipos são iguais
+console.log(string1 == string3);  // false, porque os valores são diferentes
+console.log(string1 === string3); // false, porque os valores são diferentes
