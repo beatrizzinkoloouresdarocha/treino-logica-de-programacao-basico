@@ -90,3 +90,7 @@ let idade1 = 22; // Pode ser substituído por entrada do usuário
 let idade2 = 25; // Pode ser substituído por entrada do usuário
 
 compararIdades(idade1, idade2);//A segunda idade (25) é maior que a primeira idade (22).
+
+//8) Calculadora de IMC:
+
+
