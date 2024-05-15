@@ -130,3 +130,13 @@ verificarmaioridade()
 
 //11) Comparação de preços:
 
+let preco1 = 80.0;
+let preco2 = 50.0;
+
+if (preco1 > preco2){
+    console.log("O maior preço é:",
+    preco1);
+}else {
+    console.log("O maior preço é:",
+    preco2);
+}
