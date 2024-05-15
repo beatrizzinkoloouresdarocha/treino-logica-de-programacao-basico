@@ -114,5 +114,5 @@ let mediadasnotas =(nota1 + nota2 +nota3) / 3
 
 console.log=("mediadasnotas + /3")
 
-//10) Verificação de maioridade:
+// 10) Verificação de maioridade:
 
