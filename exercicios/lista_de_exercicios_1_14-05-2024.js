@@ -127,3 +127,6 @@ function verificarmaioridade(){
 }
 
 verificarmaioridade()
+
+//11) Comparação de preços:
+
