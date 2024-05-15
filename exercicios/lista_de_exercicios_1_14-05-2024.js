@@ -110,7 +110,20 @@ let nota3 =60;
 
 let mediadasnotas =(nota1 + nota2 +nota3) / 3
 
-console.log=("mediadasnotas + /3")
+console.log(mediadasnotas)
 
 // 10) Verificação de maioridade:
 
+function verificarmaioridade(){
+    let idade1= 18;
+    let idade2 = 15;
+
+    if (idade1 >= idade2) {
+        console.log('maior de idade')
+    }
+    else {
+        console.log('menor de idade')
+    }
+}
+
+verificarmaioridade()
