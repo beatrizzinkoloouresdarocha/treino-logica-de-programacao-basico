@@ -140,3 +140,6 @@ if (preco1 > preco2){
     console.log("O maior preço é:",
     preco2);
 }
+
+//12)Verificação de aprovação escolar:
+
