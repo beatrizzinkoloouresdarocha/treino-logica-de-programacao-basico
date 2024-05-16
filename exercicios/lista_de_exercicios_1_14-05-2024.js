@@ -142,6 +142,3 @@ if (preco1 > preco2){
 }
 
 //12)Verificação de aprovação escolar:
-
-
-
