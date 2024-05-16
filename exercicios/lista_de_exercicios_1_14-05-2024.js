@@ -183,6 +183,14 @@ function conversaoDeNumeroParaString() {
 // Chamada da função
 conversaoDeNumeroParaString();
 
-//14) Verificação de comprimento de string:
+// 14) Verificação de comprimento de string:
 
+function verificacaoDeComprimentoDeString() {
+    let string = "programação";
+    let comprimentoVerificado = string.length;
 
+    console.log("Comprimento da string:", comprimentoVerificado);
+}
+
+// Chamada da função
+verificacaoDeComprimentoDeString();
