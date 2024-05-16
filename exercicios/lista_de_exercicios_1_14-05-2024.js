@@ -171,5 +171,14 @@ let media1 = 50;
 let media2 = 60;
 verificarAprovacao(media1, media2);
 
-//13) Conversão de string para número:
+// 13) Conversão de número para string:
 
+function conversaoDeNumeroParaString() {
+    let numeroASerConvertidoParaString = 10;
+    let numeroConvertidoParaString = numeroASerConvertidoParaString.toString();
+
+    console.log("Número convertido para string:", numeroConvertidoParaString);
+}
+
+// Chamada da função
+conversaoDeNumeroParaString();
