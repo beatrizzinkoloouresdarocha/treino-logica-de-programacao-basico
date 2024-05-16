@@ -197,3 +197,20 @@ verificacaoDeComprimentoDeString();
 
 //15) Comparação de três números:
 
+function comparacaoDeTresNumeros() {
+    let numero1 = 50.0;
+    let numero2 = 90.0;
+    let numero3 = 70.0;
+
+    if (numero1 > numero2 && numero1 > numero3) {
+        console.log("O maior número é:", numero1);
+    } else if (numero2 > numero1 && numero2 > numero3) {
+        console.log("O maior número é:", numero2);
+    } else if (numero3 > numero1 && numero3 > numero2) {
+        console.log("O maior número é:", numero3);
+    } else {
+        console.log("Dois ou mais números são iguais.");
+    }
+}
+
+comparacaoDeTresNumeros();
