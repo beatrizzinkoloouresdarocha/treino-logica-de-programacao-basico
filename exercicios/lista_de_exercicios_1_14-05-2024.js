@@ -194,3 +194,6 @@ function verificacaoDeComprimentoDeString() {
 
 // Chamada da função
 verificacaoDeComprimentoDeString();
+
+//15) Comparação de três números:
+
