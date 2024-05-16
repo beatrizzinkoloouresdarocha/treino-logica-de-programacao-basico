@@ -238,3 +238,28 @@ calculaAreaEVerificaLadoMaior();
 
 //17) Verificação de maior número entre quatro:
 
+// 17) Verificação de maior número entre quatro:
+
+function comparacaoDeQuatroNumeros() {
+    let numero1 = 50.0;
+    let numero2 = 90.0;
+    let numero3 = 70.0;
+    let numero4 = 100.0;
+
+    let maiorNumero = numero1;
+
+    if (numero2 > maiorNumero) {
+        maiorNumero = numero2;
+    }
+    if (numero3 > maiorNumero) {
+        maiorNumero = numero3;
+    }
+    if (numero4 > maiorNumero) {
+        maiorNumero = numero4;
+    }
+
+    console.log("O maior número é:", maiorNumero);
+}
+
+// Chamada da função
+comparacaoDeQuatroNumeros();
