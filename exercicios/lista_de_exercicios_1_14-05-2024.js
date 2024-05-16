@@ -214,3 +214,6 @@ function comparacaoDeTresNumeros() {
 }
 
 comparacaoDeTresNumeros();
+
+//16) Verificação de início de string:
+
