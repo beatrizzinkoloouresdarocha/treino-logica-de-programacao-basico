@@ -235,3 +235,6 @@ function calculaAreaEVerificaLadoMaior() {
 }
 
 calculaAreaEVerificaLadoMaior();
+
+//17) Verificação de maior número entre quatro:
+
