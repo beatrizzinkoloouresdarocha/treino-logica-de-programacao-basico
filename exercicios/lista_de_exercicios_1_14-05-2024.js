@@ -170,3 +170,6 @@ function verificarAprovacao(media1, media2) {
 let media1 = 50;
 let media2 = 60;
 verificarAprovacao(media1, media2);
+
+//13) Conversão de string para número:
+
