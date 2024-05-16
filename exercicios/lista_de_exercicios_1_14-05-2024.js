@@ -141,4 +141,32 @@ if (preco1 > preco2){
     preco2);
 }
 
-//12)Verificação de aprovação escolar:
+// 12) Verificação de aprovação escolar:
+
+function verificarAprovacao(media1, media2) {
+    if (media1 > media2) {
+        console.log("A média maior é: " + media1);
+    } else if (media1 < media2) {
+        console.log("A média maior é: " + media2);
+    } else {
+        console.log("As médias são iguais: " + media1);
+    }
+
+    // Verifica se a média é suficiente para aprovação
+    if (media1 >= 60) {
+        console.log("Média1 (" + media1 + ") está aprovada.");
+    } else {
+        console.log("Média1 (" + media1 + ") está reprovada.");
+    }
+
+    if (media2 >= 60) {
+        console.log("Média2 (" + media2 + ") está aprovada.");
+    } else {
+        console.log("Média2 (" + media2 + ") está reprovada.");
+    }
+}
+
+// Chamada da função com as médias de exemplo
+let media1 = 50;
+let media2 = 60;
+verificarAprovacao(media1, media2);
