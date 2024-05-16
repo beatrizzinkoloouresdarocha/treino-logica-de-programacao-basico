@@ -215,5 +215,23 @@ function comparacaoDeTresNumeros() {
 
 comparacaoDeTresNumeros();
 
-//16) Verificação de início de string:
+//16) Calculadora de área de um retângulo:
 
+function calculaAreaEVerificaLadoMaior() {
+    let altura = 1.60;
+    let lado = 1.50;
+
+    let area = altura * lado;
+
+    console.log("Área do retângulo:", area);
+
+    if (altura > lado) {
+        console.log("A altura é maior do que o lado.");
+    } else if (altura < lado) {
+        console.log("O lado é maior do que a altura.");
+    } else {
+        console.log("A altura e o lado são iguais.");
+    }
+}
+
+calculaAreaEVerificaLadoMaior();
