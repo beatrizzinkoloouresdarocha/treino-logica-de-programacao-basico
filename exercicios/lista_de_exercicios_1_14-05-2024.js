@@ -182,3 +182,7 @@ function conversaoDeNumeroParaString() {
 
 // Chamada da função
 conversaoDeNumeroParaString();
+
+//14) Verificação de comprimento de string:
+
+
