@@ -263,3 +263,6 @@ function comparacaoDeQuatroNumeros() {
 
 // Chamada da função
 comparacaoDeQuatroNumeros();
+
+//18 Concatenar strings:
+
