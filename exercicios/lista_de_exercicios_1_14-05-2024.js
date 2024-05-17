@@ -402,3 +402,9 @@ console.log(10 <= 11) //retorna true (verdadeiro)
 
 //28)Concatenar nome e sobrenome:
 
+let nome1 = "Beatriz";
+let sobrenome2 = "zinko";
+
+let nome = nome1 + " " + sobrenome2;
+
+console.log(nome);  // Saída: "Beatriz zinko"
