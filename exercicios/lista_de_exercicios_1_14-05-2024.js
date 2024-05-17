@@ -365,3 +365,13 @@ function subtrair() {
 subtrair();
 
 //25 Verificação de múltiplo de 3:
+
+function multiplodetres(){
+    let numero1= 100;
+    let numero2= 50;
+    let numero3=20;
+    let resultado_multiplicacao =numero1 * numero2*numero3
+    console.log('Resultado ='  + resultado_multiplicacao)
+}
+
+multiplodetres()
