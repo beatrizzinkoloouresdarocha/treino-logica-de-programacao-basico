@@ -289,4 +289,5 @@ numero_um_tipo_string = '20'//// numero 1 em variavel do tipo caractere
 console.log(numero_um_tipo_number == numero_um_tipo_string) 
 console.log(numero_um_tipo_number === numero_um_tipo_string)
 
-//20) //19)Verificação de booleano:
+//20) Multiplicação de dois números:
+
