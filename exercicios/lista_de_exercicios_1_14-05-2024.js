@@ -402,4 +402,4 @@ console.log(45 <= 10) //retorna true (verdadeiro)
 console.log(10 <= 60) //retorna false (falso)
 console.log(10 <= 11) //retorna true (verdadeiro)
 
-//28)
+//28)Concatenar nome e sobrenome:
