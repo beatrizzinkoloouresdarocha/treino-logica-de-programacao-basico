@@ -352,3 +352,14 @@ if (numero < 0) {
 
 //24 Subtração de dois números:
 
+// Função para subtrair dois números
+function subtrair() {
+    let primeiro_numero = 50;
+    let segundo_numero = 30;
+    let resultado_menos = primeiro_numero - segundo_numero;
+    
+    console.log('Resultado = ' + resultado_menos);
+}
+
+// Chama a função para executar o código
+subtrair();
