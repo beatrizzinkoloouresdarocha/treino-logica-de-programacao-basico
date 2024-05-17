@@ -342,3 +342,10 @@ soma(); // dessa forma que é chamada a execução de uma função nomedafuncao(
 
 //23) Verificação de número negativo:
 
+if (numero < 0) {
+    console.log("O número " + numero + " é negativo.");
+} else if (numero > 0) {
+    console.log("O número " + numero + " é negativo.");
+} else {
+    console.log("O número é zero.");
+}
