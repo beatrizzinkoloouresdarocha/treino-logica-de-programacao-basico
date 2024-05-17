@@ -386,3 +386,5 @@ function divisao(){
 }
 
 divisao()
+
+//27) Comparação de idade e elegibilidade para aposentadoria:
