@@ -375,3 +375,6 @@ function multiplodetres(){
 }
 
 multiplodetres()
+
+//26) Divisão de dois números:
+
