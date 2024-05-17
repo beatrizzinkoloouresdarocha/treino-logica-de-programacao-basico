@@ -324,3 +324,18 @@ comparacaoDeTresNumeros();
 
 //22)Calculadora de salário:
 
+// Função para soma de dois valores. Funções são trechos de códigos feitos para executar algo específico.
+function soma() {
+    // Declarando variáveis. Variáveis são utilizadas para armazenar valores.
+    let primeiro_salario = 1400;
+    let segundo_salario = 1900;
+    
+    // Calculando a soma dos dois salários e armazenando o resultado em uma nova variável
+    let resultado_soma = primeiro_salario + segundo_salario;
+    
+    // Escrevendo o resultado da soma no console
+    console.log('Resultado = ' + resultado_soma); // para escrever na tela de console
+}
+
+// Chamando a função para executar o código dentro dela
+soma(); // dessa forma que é chamada a execução de uma função nomedafuncao()
