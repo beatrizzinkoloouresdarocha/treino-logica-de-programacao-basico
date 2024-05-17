@@ -403,3 +403,26 @@ console.log(10 <= 60) //retorna false (falso)
 console.log(10 <= 11) //retorna true (verdadeiro)
 
 //28)Concatenar nome e sobrenome:
+
+let nome1 = "Beatriz";
+let sobrenome2 = "zinko loures";
+
+
+// Concatenando as strings
+let nome = nome1 + " " + sobrenome2;
+
+console.log(frase);  // Saída: "Aprender a programar é divertido!"
+
+//19)Verificação de booleano:
+
+verdadeiro = true 
+falso = false 
+
+console.log(20==10)//retornou false (falso)
+console.log(10==10)//retornou true (verdadeiro)
+
+numero_um_tipo_number = 10 //// numero 1 em varivael do tipo numero inteiro
+numero_um_tipo_string = '20'//// numero 1 em variavel do tipo caractere
+
+console.log(numero_um_tipo_number == numero_um_tipo_string) 
+console.log(numero_um_tipo_number === numero_um_tipo_string)
