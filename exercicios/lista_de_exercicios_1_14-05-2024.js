@@ -291,3 +291,14 @@ console.log(numero_um_tipo_number === numero_um_tipo_string)
 
 //20) Multiplicação de dois números:
 
+//fazer o multiplicacao
+
+function multiplicacaodedoisnumeros(){
+    let primeiro_numero=50
+    let segundo_numero=10
+    let resultado_multiplicacao=primeiro_numero*segundo_numero
+    console.log('resultado='+resultado_multiplicacao)
+}
+
+
+multiplicacaodedoisnumeros()
