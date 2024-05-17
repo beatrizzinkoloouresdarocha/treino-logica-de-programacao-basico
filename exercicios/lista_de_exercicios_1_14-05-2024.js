@@ -339,3 +339,5 @@ function soma() {
 
 // Chamando a função para executar o código dentro dela
 soma(); // dessa forma que é chamada a execução de uma função nomedafuncao()
+
+//23) 
