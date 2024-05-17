@@ -275,5 +275,4 @@ let frase = parte1 + " " + parte2 + " " + parte3;
 
 console.log(frase);  // Saída: "Aprender a programar é divertido!"
 
-//19)Verificação de palavra palíndroma:
-
+//19)Verificação de booleano:
