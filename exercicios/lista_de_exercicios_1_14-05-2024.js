@@ -349,3 +349,6 @@ if (numero < 0) {
 } else {
     console.log("O número é zero.");
 }
+
+//24 Subtração de dois números:
+
