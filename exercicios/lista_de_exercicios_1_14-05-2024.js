@@ -363,3 +363,5 @@ function subtrair() {
 
 // Chama a função para executar o código
 subtrair();
+
+//25 Verificação de múltiplo de 3:
