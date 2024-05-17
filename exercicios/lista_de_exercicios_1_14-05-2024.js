@@ -266,3 +266,11 @@ comparacaoDeQuatroNumeros();
 
 //18 Concatenar strings:
 
+let parte1 = "Aprender";
+let parte2 = "a programar";
+let parte3 = "é divertido!";
+
+// Concatenando as strings
+let frase = parte1 + " " + parte2 + " " + parte3;
+
+console.log(frase);  // Saída: "Aprender a programar é divertido!"
