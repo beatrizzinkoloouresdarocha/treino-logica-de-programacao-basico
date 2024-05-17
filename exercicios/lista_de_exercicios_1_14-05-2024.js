@@ -409,3 +409,5 @@ let nome = nome1 + " " + sobrenome2;
 
 console.log(nome);  // Saída: "Beatriz zinko"
 
+//29) Concatenar  fruta e objeto
+
