@@ -389,3 +389,16 @@ divisao()
 
 //27) Comparação de idade e elegibilidade para aposentadoria:
 
+//Exemplo de comparacao de maior ou igual >= :
+
+console.log(45 >= 10) //retorna true (verdadeiro)
+console.log(10 >= 60) //retorna true (verdadeiro)
+console.log(10 >= 11) //retorna false (falso)
+
+
+//Exemplo de comparacao de menor ou igual <= :
+
+console.log(45 <= 10) //retorna true (verdadeiro)
+console.log(10 <= 60) //retorna false (falso)
+console.log(10 <= 11) //retorna true (verdadeiro)
+
