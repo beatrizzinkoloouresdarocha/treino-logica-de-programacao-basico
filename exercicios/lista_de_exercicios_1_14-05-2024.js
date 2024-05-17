@@ -408,3 +408,4 @@ let sobrenome2 = "zinko";
 let nome = nome1 + " " + sobrenome2;
 
 console.log(nome);  // Saída: "Beatriz zinko"
+
