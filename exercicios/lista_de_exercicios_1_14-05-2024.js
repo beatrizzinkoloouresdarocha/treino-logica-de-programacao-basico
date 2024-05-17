@@ -300,5 +300,5 @@ function multiplicacaodedoisnumeros(){
     console.log('resultado='+resultado_multiplicacao)
 }
 
-
 multiplicacaodedoisnumeros()
+
