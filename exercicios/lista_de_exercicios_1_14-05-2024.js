@@ -321,3 +321,6 @@ function comparacaoDeTresNumeros() {
 }
 
 comparacaoDeTresNumeros();
+
+//22)Calculadora de salário:
+
