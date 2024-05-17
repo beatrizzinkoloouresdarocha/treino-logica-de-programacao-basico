@@ -276,3 +276,15 @@ let frase = parte1 + " " + parte2 + " " + parte3;
 console.log(frase);  // Saída: "Aprender a programar é divertido!"
 
 //19)Verificação de booleano:
+
+verdadeiro = true 
+falso = false 
+
+console.log(20==10)//retornou false (falso)
+console.log(10==10)//retornou true (verdadeiro)
+
+numero_um_tipo_number = 10 //// numero 1 em varivael do tipo numero inteiro
+numero_um_tipo_string = '20'//// numero 1 em variavel do tipo caractere
+
+console.log(numero_um_tipo_number == numero_um_tipo_string) 
+console.log(numero_um_tipo_number === numero_um_tipo_string)
