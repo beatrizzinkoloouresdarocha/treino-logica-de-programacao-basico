@@ -411,3 +411,7 @@ console.log(nome);  // Saída: "Beatriz zinko"
 
 //29) Concatenar  fruta e objeto
 
+let fruta1= "manga";
+let objeto2="faca";
+
+let fruta = fruta1 + " "+objeto2
