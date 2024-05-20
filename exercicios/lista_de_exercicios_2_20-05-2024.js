@@ -42,3 +42,4 @@ let numero_exercicio_6=75;
 let resultado_exercicio_6 = numero_exercicio_6 > 50 && numero_exercicio_6 < 100;
 console.log('resultado_exercicio_6: ' + resultado_exercicio_6); 
 
+//7)Verifique se a diferença entre dois números é menor que 10 e maior que 0.
