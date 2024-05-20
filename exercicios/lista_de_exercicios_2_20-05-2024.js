@@ -15,3 +15,7 @@ console.log('resultado_exercicio_2: '+ resultado_exercicio_2)//retornou true por
 
 //3)Verifique se um número é negativo ou igual a zero.
 
+let numero_exercicio_3 = 70;
+
+let resultado_exercicio_3 = numero_exercicio_3 <= 0;
+console.log('resultado exercicio 3: ' + resultado_exercicio_3);
