@@ -19,3 +19,4 @@ let numero_exercicio_3 = 70;
 
 let resultado_exercicio_3 = numero_exercicio_3 <= 0;
 console.log('resultado exercicio 3: ' + resultado_exercicio_3);
+
