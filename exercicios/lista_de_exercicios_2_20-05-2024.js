@@ -53,3 +53,7 @@ console.log('resultado_exercicio_7: ' + resultado_exercicio_7);
 
 //8)Verifique se um número é maior que 50.
 
+let numero_exercicio_8=45;
+
+let resultado_exercicio_8 = numero_exercicio_8 > 50;
+console.log('resultado_exercicio_8: ' + resultado_exercicio_8);//false por que o numerto 45 não é maior que 50.
