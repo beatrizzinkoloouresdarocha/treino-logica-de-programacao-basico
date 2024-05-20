@@ -13,3 +13,5 @@ soma_numeros_exercicio_2=primeiro_numero_exercicio_2+segundo_numero_exercicio_2
 resultado_exercicio_2 = (primeiro_numero_exercicio_2==segundo_numero_exercicio_2) || (soma_numeros_exercicio_2>100)
 console.log('resultado_exercicio_2: '+ resultado_exercicio_2)//retornou true porque a soma dois dois numeros é maior que 100.
 
+//3)Verifique se um número é negativo ou igual a zero.
+
