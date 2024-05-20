@@ -43,3 +43,11 @@ let resultado_exercicio_6 = numero_exercicio_6 > 50 && numero_exercicio_6 < 100;
 console.log('resultado_exercicio_6: ' + resultado_exercicio_6); 
 
 //7)Verifique se a diferença entre dois números é menor que 10 e maior que 0.
+
+let primeiro_numero_exercicio_7 = 15;
+let segundo_numero_exercicio_7 = 20;
+
+let diferenca = Math.abs(primeiro_numero_exercicio_7 - segundo_numero_exercicio_7);
+let resultado_exercicio_7 = diferenca > 0 && diferenca < 10;
+console.log('resultado_exercicio_7: ' + resultado_exercicio_7);
+
