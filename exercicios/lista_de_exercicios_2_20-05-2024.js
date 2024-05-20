@@ -51,3 +51,4 @@ let diferenca = Math.abs(primeiro_numero_exercicio_7 - segundo_numero_exercicio_
 let resultado_exercicio_7 = diferenca > 0 && diferenca < 10;
 console.log('resultado_exercicio_7: ' + resultado_exercicio_7);
 
+//8)Verifique se um número é maior que 50.
