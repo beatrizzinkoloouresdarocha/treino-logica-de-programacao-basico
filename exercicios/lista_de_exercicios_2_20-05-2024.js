@@ -28,3 +28,10 @@ resultado_exercicio_4= numero_exercicio_4>=10 && numero_exercicio_4<=20;
 console.log('resultado_exercicio_4:' +resultado_exercicio_4);
 
 //5)Verifique se dois números são diferentes e ambos são positivos.
+
+primeiro_numero_exercicio_5=50;
+segundo_numero_exercicio_5=25;
+
+resultado_exercicio_5=primeiro_numero_exercicio_5>=50 && segundo_numero_exercicio_5<=25;
+console.log('resultado_exercicio_5: '+resultado_exercicio_5);
+
