@@ -20,3 +20,5 @@ let numero_exercicio_3 = 70;
 let resultado_exercicio_3 = numero_exercicio_3 <= 0;
 console.log('resultado exercicio 3: ' + resultado_exercicio_3);
 
+//4)Verifique se um número está entre 10 e 20, inclusive.
+
