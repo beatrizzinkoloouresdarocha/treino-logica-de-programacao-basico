@@ -36,3 +36,9 @@ resultado_exercicio_5=(primeiro_numero_exercicio_5!=segundo_numero_exercicio_5) 
 console.log('resultado_exercicio_5: '+resultado_exercicio_5);
 
 //6)Verifique se um número é maior que 50 e menor que 100.
+
+let numero_exercicio_6=75;
+
+let resultado_exercicio_6 = numero_exercicio_6 > 50 && numero_exercicio_6 < 100;
+console.log('resultado_exercicio_6: ' + resultado_exercicio_6); 
+
