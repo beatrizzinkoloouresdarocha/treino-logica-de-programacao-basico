@@ -86,3 +86,6 @@ let primeiro_numero_exercicio_12=55;
 
 let resultado_exercicio_12=(primeiro_numero_exercicio_12 <30) || (primeiro_numero_exercicio_12 >50);
 console.log('resultado_exercicio_12: '+resultado_exercicio_12);//Ele verifica se um número está fora do intervalo de 30 a 50 usando as condições apropriadas.
+
+//13)Verifique se a soma de dois números é maior que 100.
+
