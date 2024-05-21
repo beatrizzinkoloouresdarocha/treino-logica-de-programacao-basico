@@ -95,3 +95,5 @@ let segundo_numero_exercicio_13=85;
 let soma_numeros_exercicio_13=primeiro_numero_exercicio_13 +segundo_numero_exercicio_13
 let resultado_exercicio_13 = soma_numeros_exercicio_13 > 100;
 console.log('resultado_exercicio_13: '+ resultado_exercicio_13);
+
+//14)Verifique se dois números são ambos maiores que 100.
