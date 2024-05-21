@@ -66,3 +66,8 @@ let resultado_exercicio_9=numero_exercicio_9 > 0 && numero_exercicio_9< 50;
 console.log('resultado_exercicio_9: '+ resultado_exercicio_9);
 
 //10)Verifique se um número é menor que 10 ou maior que 20.
+
+let numero_exercicio_10= 50;
+
+let resultado_exercicio_10=numero_exercicio_10 <10 || numero_exercicio_10 > 20;
+console.log('resultado_exercicio_10: ' +resultado_exercicio_10);
