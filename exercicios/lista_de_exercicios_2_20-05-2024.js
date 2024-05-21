@@ -73,3 +73,4 @@ let resultado_exercicio_10=numero_exercicio_10 <10 || numero_exercicio_10 > 20;
 console.log('resultado_exercicio_10: ' +resultado_exercicio_10);
 
 //11)Verifique se dois números são iguais e ambos são maiores que 30.
+
