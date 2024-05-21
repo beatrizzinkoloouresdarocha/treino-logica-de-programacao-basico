@@ -128,3 +128,5 @@ function ePrimo(numero) {
 let resultado_exercicio_16 = (numero_exercicio_16 > 10) && ePrimo(numero_exercicio_16);
 
 console.log('resultado_exercicio_16: ' + resultado_exercicio_16); // false para 14
+
+//17)Verifique se a soma de dois números é menor que 50.
