@@ -111,5 +111,20 @@ let numero_exercicio_15 = 15;
 let resultado_exercicio_15 = (numero_exercicio_15 > 0) && (numero_exercicio_15 !== 10);
 console.log('resultado_exercicio_15: '+resultado_exercicio_15);
 
-//16)Verifique se um número é primo e maior que 10.
+// 16) Verifique se um número é primo e maior que 10.
 
+let numero_exercicio_16 = 14;
+
+// Função para verificar se um número é primo
+function ePrimo(numero) {
+    if (numero <= 1) return false;
+    if (numero <= 3) return true; 
+    if (numero % 2 === 0 || numero % 3 === 0) return false; 
+    for (let i = 5; i * i <= numero; i += 6) {
+        if (numero % i === 0 || numero % (i + 2) === 0) return false; 
+    }
+    return true;
+}
+let resultado_exercicio_16 = (numero_exercicio_16 > 10) && ePrimo(numero_exercicio_16);
+
+console.log('resultado_exercicio_16: ' + resultado_exercicio_16); // false para 14
