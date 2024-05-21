@@ -112,3 +112,4 @@ let resultado_exercicio_15 = (numero_exercicio_15 > 0) && (numero_exercicio_15 !
 console.log('resultado_exercicio_15: '+resultado_exercicio_15);
 
 //16)Verifique se um número é primo e maior que 10.
+
