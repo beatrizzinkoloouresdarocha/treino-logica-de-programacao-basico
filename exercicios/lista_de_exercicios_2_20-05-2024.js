@@ -79,3 +79,6 @@ let segundo_numero_exercicio_11 = 60;
 
 let resultado_exercicio_11 = (primeiro_numero_exercicio_11 === segundo_numero_exercicio_11) && (primeiro_numero_exercicio_11 > 30) && (segundo_numero_exercicio_11 > 30);
 console.log('resultado_exercicio_11: ' + resultado_exercicio_11); // false
+
+//12)Verifique se um número está fora do intervalo de 30 a 50.
+
