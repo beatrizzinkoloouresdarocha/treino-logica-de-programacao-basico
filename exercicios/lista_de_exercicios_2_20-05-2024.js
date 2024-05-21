@@ -106,3 +106,7 @@ console.log('resultado_exercicio_14: '+resultado_exercicio_14);
 
 //15)Verifique se um número é maior que 0 e não é igual a 10.
 
+let numero_exercicio_15 = 15; 
+
+let resultado_exercicio_15 = (numero_exercicio_15 > 0) && (numero_exercicio_15 !== 10);
+console.log('resultado_exercicio_15: '+resultado_exercicio_15);
