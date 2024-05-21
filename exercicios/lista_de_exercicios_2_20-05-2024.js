@@ -89,3 +89,9 @@ console.log('resultado_exercicio_12: '+resultado_exercicio_12);//Ele verifica se
 
 //13)Verifique se a soma de dois números é maior que 100.
 
+let primeiro_numero_exercicio_13=50;
+let segundo_numero_exercicio_13=85;
+
+let soma_numeros_exercicio_13=primeiro_numero_exercicio_13 +segundo_numero_exercicio_13
+let resultado_exercicio_13 = soma_numeros_exercicio_13 > 100;
+console.log('resultado_exercicio_13: '+ resultado_exercicio_13);
