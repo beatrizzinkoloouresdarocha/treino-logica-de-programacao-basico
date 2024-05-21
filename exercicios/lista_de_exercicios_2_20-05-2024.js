@@ -62,4 +62,5 @@ console.log('resultado_exercicio_8: ' + resultado_exercicio_8);//false por que o
 
 let numero_exercicio_9=27;
 
-let resultado_exercicio_9=numero_exercicio_9
+let resultado_exercicio_9=numero_exercicio_9 > 0 && numero_exercicio_9< 50;
+console.log('resultado_exercicio_9: '+ resultado_exercicio_9);
