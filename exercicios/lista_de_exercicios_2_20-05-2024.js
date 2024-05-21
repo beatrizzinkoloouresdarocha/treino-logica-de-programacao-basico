@@ -103,3 +103,5 @@ let segundo_numero_exercicio_14=90;
 
 let resultado_exercicio_14=(primeiro_numero_exercicio_14>100) && (segundo_numero_exercicio_14>100)
 console.log('resultado_exercicio_14: '+resultado_exercicio_14);
+
+//15)Verifique se um número é maior que 0 e não é igual a 10.
