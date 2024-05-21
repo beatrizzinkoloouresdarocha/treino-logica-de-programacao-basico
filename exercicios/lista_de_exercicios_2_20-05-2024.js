@@ -82,4 +82,7 @@ console.log('resultado_exercicio_11: ' + resultado_exercicio_11); // false
 
 //12)Verifique se um número está fora do intervalo de 30 a 50.
 
+let primeiro_numero_exercicio_12=55;
 
+let resultado_exercicio_12=(primeiro_numero_exercicio_12 <30) || (primeiro_numero_exercicio_12 >50);
+console.log('resultado_exercicio_12: '+resultado_exercicio_12);
