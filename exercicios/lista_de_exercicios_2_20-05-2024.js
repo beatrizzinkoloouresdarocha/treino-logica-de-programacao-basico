@@ -167,3 +167,5 @@ let soma_numeros_exercicio_20 = primeiro_numero_exercicio_20 + segundo_numero_ex
 let resultado_exercicio_20 = (primeiro_numero_exercicio_20 == segundo_numero_exercicio_20) || (soma_numeros_exercicio_20 > 110);
 
 console.log('resultado_exercicio_20: ' + resultado_exercicio_20);
+
+//21) Verifique se um número é maior que 60 e menor que 100.
