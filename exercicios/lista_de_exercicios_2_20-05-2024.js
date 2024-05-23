@@ -137,3 +137,4 @@ let segundo_numero_exercicio_17 = 45;
 let soma_numeros_exercicio_17 = primeiro_numero_exercicio_17 + segundo_numero_exercicio_17;
 let resultado_exercicio_17 = soma_numeros_exercicio_17 < 50; 
 console.log('resultado_exercicio_17: ' + resultado_exercicio_17);
+
