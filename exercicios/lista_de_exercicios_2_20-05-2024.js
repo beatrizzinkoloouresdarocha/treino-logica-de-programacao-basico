@@ -138,3 +138,4 @@ let soma_numeros_exercicio_17 = primeiro_numero_exercicio_17 + segundo_numero_ex
 let resultado_exercicio_17 = soma_numeros_exercicio_17 < 50; 
 console.log('resultado_exercicio_17: ' + resultado_exercicio_17);
 
+//18)Verifique se a diferença entre dois números é maior que 20.
