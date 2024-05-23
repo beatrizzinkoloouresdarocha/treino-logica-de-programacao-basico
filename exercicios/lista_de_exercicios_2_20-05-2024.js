@@ -150,5 +150,11 @@ console.log('resultado_exercicio_18: ' + resultado_exercicio_18);
 
 //19)Verifique se a soma de três números é maior que 100.
 
+let primeiro_numero_exercicio_19=110;
+let segundo_numero_exercicio_19=115;
+let terceiro_numero_exercicio_19=120;
 
+let soma_numeros_exercicio_19=primeiro_numero_exercicio_19+segundo_numero_exercicio_19 +terceiro_numero_exercicio_19
+let resultado_exercicio_19=soma_numeros_exercicio_19>100
+console.log('resultado_exercicio_19:' + resultado_exercicio_19);
 
