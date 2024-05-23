@@ -158,4 +158,12 @@ let soma_numeros_exercicio_19=primeiro_numero_exercicio_19+segundo_numero_exerci
 let resultado_exercicio_19=soma_numeros_exercicio_19>100
 console.log('resultado_exercicio_19:' + resultado_exercicio_19);
 
-//20 Verifique se dois números são iguais ou a soma deles é maior que 110.
+// 20) Verifique se dois números são iguais ou a soma deles é maior que 110.
+
+let primeiro_numero_exercicio_20 = 117;
+let segundo_numero_exercicio_20 = 120;
+
+let soma_numeros_exercicio_20 = primeiro_numero_exercicio_20 + segundo_numero_exercicio_20;
+let resultado_exercicio_20 = (primeiro_numero_exercicio_20 == segundo_numero_exercicio_20) || (soma_numeros_exercicio_20 > 110);
+
+console.log('resultado_exercicio_20: ' + resultado_exercicio_20);
