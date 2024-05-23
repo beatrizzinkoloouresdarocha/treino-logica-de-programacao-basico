@@ -148,4 +148,7 @@ let diferenca_exercicio_18 = primeiro_numero_exercicio_18 - segundo_numero_exerc
 let resultado_exercicio_18 = diferenca_exercicio_18 > 20;
 console.log('resultado_exercicio_18: ' + resultado_exercicio_18);
 
-//19)Verifique se o produto de dois números é igual a 100.
+//19)Verifique se a soma de três números é maior que 100.
+
+
+
