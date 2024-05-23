@@ -143,3 +143,7 @@ console.log('resultado_exercicio_17: ' + resultado_exercicio_17);
 let primeiro_numero_exercicio_18=50;
 let segundo_numero_exercicio_18=30;
 
+let diferenca_exercicio_18 = primeiro_numero_exercicio_18 - segundo_numero_exercicio_18;
+
+let resultado_exercicio_18 = diferenca_exercicio_18 > 20;
+console.log('resultado_exercicio_18: ' + resultado_exercicio_18);
