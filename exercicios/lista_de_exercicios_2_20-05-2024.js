@@ -131,3 +131,9 @@ console.log('resultado_exercicio_16: ' + resultado_exercicio_16); // false para 
 
 //17)Verifique se a soma de dois números é menor que 50.
 
+let primeiro_numero_exercicio_17 = 35;
+let segundo_numero_exercicio_17 = 45;
+
+let soma_numeros_exercicio_17 = primeiro_numero_exercicio_17 + segundo_numero_exercicio_17;
+let resultado_exercicio_17 = soma_numeros_exercicio_17 < 50; 
+console.log('resultado_exercicio_17: ' + resultado_exercicio_17);
