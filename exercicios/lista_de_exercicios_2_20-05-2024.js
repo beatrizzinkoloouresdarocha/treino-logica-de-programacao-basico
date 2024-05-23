@@ -174,3 +174,5 @@ let primeiro_numero_exercicio_21 = 71;
 
 let resultado_exercicio_21 = primeiro_numero_exercicio_21 > 60 && primeiro_numero_exercicio_21 < 100;
 console.log('resultado_exercicio_21: ' + resultado_exercicio_21);
+
+//22 Verifique se a soma de dois números é menor que 80.
