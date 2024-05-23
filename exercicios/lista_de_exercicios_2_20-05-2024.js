@@ -169,3 +169,4 @@ let resultado_exercicio_20 = (primeiro_numero_exercicio_20 == segundo_numero_exe
 console.log('resultado_exercicio_20: ' + resultado_exercicio_20);
 
 //21) Verifique se um número é maior que 60 e menor que 100.
+
