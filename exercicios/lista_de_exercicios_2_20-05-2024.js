@@ -202,3 +202,5 @@ let primeiro_numero_exercicio_24 = 15;
 
 let resultado_exercicio_24 = primeiro_numero_exercicio_24 < 20 || primeiro_numero_exercicio_24 > 50;
 console.log('resultado_exercicio_24: ' + resultado_exercicio_24);
+
+//25) Verifique se um número é positivo e menor que 90.
