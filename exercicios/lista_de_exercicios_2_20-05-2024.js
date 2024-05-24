@@ -210,4 +210,12 @@ let primeiro_numero_exercicio_25 = 55;
 let resultado_exercicio_25 = primeiro_numero_exercicio_25 >= 0 && primeiro_numero_exercicio_25 < 90;
 console.log('resultado_exercicio_25: ' + resultado_exercicio_25);
 
-//26)Verifique se a soma de dois números é menor que 95.
+// 26) Verifique se a soma de dois números é menor que 95.
+
+let primeiro_numero_exercicio_26 = 50;
+let segundo_numero_exercicio_26 = 70;
+
+let soma_numeros_exercicio_26 = primeiro_numero_exercicio_26 + segundo_numero_exercicio_26;
+let resultado_exercicio_26 = soma_numeros_exercicio_26 < 95;
+
+console.log('resultado_exercicio_26: ' + resultado_exercicio_26);
