@@ -263,3 +263,5 @@ let numero_exercicio_31 = 205;
 
 let resultado_exercicio_31 = numero_exercicio_31 > 200 && numero_exercicio_31 % 5 === 0;
 console.log('resultado_exercicio_31: ' + resultado_exercicio_31);
+
+// 32) Verifique se um número é ímpar e menor que 50.
