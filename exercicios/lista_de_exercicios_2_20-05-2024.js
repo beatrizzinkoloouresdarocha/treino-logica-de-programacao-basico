@@ -187,3 +187,11 @@ console.log('resultado_exercicio_22: ' + resultado_exercicio_22);
 
 //23)Verifique se a média de três números é menor que 30.
 
+let numero1 = 20;
+let numero2 = 25;
+let numero3 = 35;
+
+let media = (numero1 + numero2 + numero3) / 3;
+let resultado = media < 30;
+
+console.log('resultado_exercicio_23: ' + resultado);
