@@ -195,3 +195,6 @@ let media = (numero1 + numero2 + numero3) / 3;
 let resultado = media < 30;
 
 console.log('resultado_exercicio_23: ' + resultado);
+
+//24)Verifique se um número é menor que 20 ou maior que 50.
+
