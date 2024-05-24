@@ -322,3 +322,4 @@ let diferenca_exercicio_38 = Math.abs(primeiro_numero_exercicio_38 - segundo_num
 let resultado_exercicio_38 = diferenca_exercicio_38 <= 5;
 console.log('resultado_exercicio_38: ' + resultado_exercicio_38);
 
+// 39) Verifique se a multiplicação de dois números é menor que 500.
