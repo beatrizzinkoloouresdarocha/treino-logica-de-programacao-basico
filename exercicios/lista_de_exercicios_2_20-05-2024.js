@@ -323,3 +323,10 @@ let resultado_exercicio_38 = diferenca_exercicio_38 <= 5;
 console.log('resultado_exercicio_38: ' + resultado_exercicio_38);
 
 // 39) Verifique se a multiplicação de dois números é menor que 500.
+
+let primeiro_numero_exercicio_39 = 20;
+let segundo_numero_exercicio_39 = 20;
+
+let multiplicacao_exercicio_39 = primeiro_numero_exercicio_39 * segundo_numero_exercicio_39;
+let resultado_exercicio_39 = multiplicacao_exercicio_39 < 500;
+console.log('resultado_exercicio_39: ' + resultado_exercicio_39);
