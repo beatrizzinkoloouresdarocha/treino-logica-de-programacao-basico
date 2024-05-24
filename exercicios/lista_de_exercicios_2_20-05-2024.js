@@ -273,3 +273,9 @@ console.log('resultado_exercicio_32: ' + resultado_exercicio_32);
 
 // 33) Verifique se a multiplicação de dois números é maior que 1000.
 
+let primeiro_numero_exercicio_33 = 40;
+let segundo_numero_exercicio_33 = 30;
+
+let multiplicacao = primeiro_numero_exercicio_33 * segundo_numero_exercicio_33;
+let resultado_exercicio_33 = multiplicacao > 1000;
+console.log('resultado_exercicio_33: ' + resultado_exercicio_33);
