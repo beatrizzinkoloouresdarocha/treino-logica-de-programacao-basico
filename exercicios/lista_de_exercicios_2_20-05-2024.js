@@ -246,3 +246,13 @@ let soma_numeros_exercicio_29 = primeiro_numero_exercicio_29 + segundo_numero_ex
 let resultado_exercicio_29 = soma_numeros_exercicio_29 < 150;
 
 console.log('resultado_exercicio_29: ' + resultado_exercicio_29);
+
+// 30) Verifique se a soma de dois números é menor que 57.
+
+let primeiro_numero_exercicio_30 = 35;
+let segundo_numero_exercicio_30 = 25;
+
+let soma_numeros_exercicio_30 = primeiro_numero_exercicio_30 + segundo_numero_exercicio_30;
+let resultado_exercicio_30 = soma_numeros_exercicio_30 < 57;
+
+console.log('resultado_exercicio_30: ' + resultado_exercicio_30);
