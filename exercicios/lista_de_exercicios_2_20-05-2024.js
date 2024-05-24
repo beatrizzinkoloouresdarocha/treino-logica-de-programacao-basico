@@ -236,3 +236,13 @@ let diferenca_exercicio_28 = Math.abs(primeiro_numero - segundo_numero); // Usam
 let resultado_exercicio_28 = diferenca_exercicio_28 === 10;
 
 console.log('resultado_exercicio_28: ' + resultado_exercicio_28);
+
+// 29) Verifique se a soma de dois números é menor que 150.
+
+let primeiro_numero_exercicio_29 = 80;
+let segundo_numero_exercicio_29 = 70;
+
+let soma_numeros_exercicio_29 = primeiro_numero_exercicio_29 + segundo_numero_exercicio_29;
+let resultado_exercicio_29 = soma_numeros_exercicio_29 < 150;
+
+console.log('resultado_exercicio_29: ' + resultado_exercicio_29);
