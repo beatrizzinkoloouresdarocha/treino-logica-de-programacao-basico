@@ -281,3 +281,8 @@ let resultado_exercicio_33 = multiplicacao > 1000;
 console.log('resultado_exercicio_33: ' + resultado_exercicio_33);
 
 // 34) Verifique se um número é um múltiplo de 3 ou de 7.
+
+let numero_exercicio_34 = 21;
+
+let resultado_exercicio_34 = numero_exercicio_34 % 3 === 0 || numero_exercicio_34 % 7 === 0;
+console.log('resultado_exercicio_34: ' + resultado_exercicio_34);
