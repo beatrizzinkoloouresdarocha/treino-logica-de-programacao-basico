@@ -315,3 +315,10 @@ console.log('resultado_exercicio_37: ' + resultado_exercicio_37);
 
 // 38) Verifique se a diferença entre dois números é menor ou igual a 5
 
+let primeiro_numero_exercicio_38 = 28;
+let segundo_numero_exercicio_38 = 23;
+
+let diferenca_exercicio_38 = Math.abs(primeiro_numero_exercicio_38 - segundo_numero_exercicio_38);
+let resultado_exercicio_38 = diferenca_exercicio_38 <= 5;
+console.log('resultado_exercicio_38: ' + resultado_exercicio_38);
+
