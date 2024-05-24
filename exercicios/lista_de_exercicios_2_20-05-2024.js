@@ -226,3 +226,5 @@ let numero_exercicio_27 = 85;
 
 let resultado_exercicio_27 = numero_exercicio_27 < 0 || numero_exercicio_27 === 0;
 console.log('resultado_exercicio_27: ' + resultado_exercicio_27);
+
+//28)Verifique se a diferença entre dois números é igual a 10.
