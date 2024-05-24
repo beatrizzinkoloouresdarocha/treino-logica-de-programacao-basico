@@ -220,5 +220,9 @@ let resultado_exercicio_26 = soma_numeros_exercicio_26 < 95;
 
 console.log('resultado_exercicio_26: ' + resultado_exercicio_26);
 
-//27)Verifique se um número é negativo ou igual a zero.
+// 27) Verifique se um número é negativo ou igual a zero.
 
+let numero_exercicio_27 = 85;
+
+let resultado_exercicio_27 = numero_exercicio_27 < 0 || numero_exercicio_27 === 0;
+console.log('resultado_exercicio_27: ' + resultado_exercicio_27);
