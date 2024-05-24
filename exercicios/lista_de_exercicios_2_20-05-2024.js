@@ -258,3 +258,8 @@ let resultado_exercicio_30 = soma_numeros_exercicio_30 < 57;
 console.log('resultado_exercicio_30: ' + resultado_exercicio_30);
 
 //31) Verifique se um número é maior que 200 e divisível por 5.
+
+let numero_exercicio_31 = 205;
+
+let resultado_exercicio_31 = numero_exercicio_31 > 200 && numero_exercicio_31 % 5 === 0;
+console.log('resultado_exercicio_31: ' + resultado_exercicio_31);
