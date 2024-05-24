@@ -270,3 +270,6 @@ let numero_exercicio_32 = 37;
 
 let resultado_exercicio_32 = numero_exercicio_32 % 2 !== 0 && numero_exercicio_32 < 50;
 console.log('resultado_exercicio_32: ' + resultado_exercicio_32);
+
+// 33) Verifique se a multiplicação de dois números é maior que 1000.
+
