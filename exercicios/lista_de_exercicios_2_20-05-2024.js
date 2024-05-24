@@ -330,3 +330,10 @@ let segundo_numero_exercicio_39 = 20;
 let multiplicacao_exercicio_39 = primeiro_numero_exercicio_39 * segundo_numero_exercicio_39;
 let resultado_exercicio_39 = multiplicacao_exercicio_39 < 500;
 console.log('resultado_exercicio_39: ' + resultado_exercicio_39);
+
+// 40) Verifique se um número está entre 100 e 200 (exclusivo).
+
+let numero_exercicio_40 = 150;
+
+let resultado_exercicio_40 = numero_exercicio_40 > 100 && numero_exercicio_40 < 200;
+console.log('resultado_exercicio_40: ' + resultado_exercicio_40);
