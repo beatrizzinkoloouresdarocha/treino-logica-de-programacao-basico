@@ -184,3 +184,6 @@ let soma_numeros_exercicio_22 = primeiro_numero_exercicio_22 + segundo_numero_ex
 let resultado_exercicio_22 = soma_numeros_exercicio_22 < 80;
 
 console.log('resultado_exercicio_22: ' + resultado_exercicio_22);
+
+//23)Verifique se a média de três números é menor que 30.
+
