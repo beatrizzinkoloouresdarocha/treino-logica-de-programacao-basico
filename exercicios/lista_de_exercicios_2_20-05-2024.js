@@ -180,3 +180,5 @@ console.log('resultado_exercicio_21: ' + resultado_exercicio_21);
 let primeiro_numero_exercicio_22=55;
 let segundo_numero_exercicio_22=77;
 
+let soma_numeros_exercicio_22=primeiro_numero_exercicio_22 + segundo_numero_exercicio_22
+let resultado_exercicio_22=
