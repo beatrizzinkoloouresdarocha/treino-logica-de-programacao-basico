@@ -305,3 +305,5 @@ let segundo_numero_exercicio_36 = 45;
 let soma_numeros_exercicio_36 = primeiro_numero_exercicio_36 + segundo_numero_exercicio_36;
 let resultado_exercicio_36 = soma_numeros_exercicio_36 === 100;
 console.log('resultado_exercicio_36: ' + resultado_exercicio_36);
+
+// 37) Verifique se um número é par e menor que 60.
