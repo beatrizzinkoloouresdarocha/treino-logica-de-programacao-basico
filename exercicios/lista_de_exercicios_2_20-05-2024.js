@@ -227,4 +227,12 @@ let numero_exercicio_27 = 85;
 let resultado_exercicio_27 = numero_exercicio_27 < 0 || numero_exercicio_27 === 0;
 console.log('resultado_exercicio_27: ' + resultado_exercicio_27);
 
-//28)Verifique se a diferença entre dois números é igual a 10.
+// 28) Verifique se a diferença entre dois números é igual a 10.
+
+let primeiro_numero = 30;
+let segundo_numero = 20;
+
+let diferenca_exercicio_28 = Math.abs(primeiro_numero - segundo_numero); // Usamos Math.abs para garantir que a diferença seja positiva.
+let resultado_exercicio_28 = diferenca_exercicio_28 === 10;
+
+console.log('resultado_exercicio_28: ' + resultado_exercicio_28);
