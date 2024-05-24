@@ -279,3 +279,5 @@ let segundo_numero_exercicio_33 = 30;
 let multiplicacao = primeiro_numero_exercicio_33 * segundo_numero_exercicio_33;
 let resultado_exercicio_33 = multiplicacao > 1000;
 console.log('resultado_exercicio_33: ' + resultado_exercicio_33);
+
+// 34) Verifique se um número é um múltiplo de 3 ou de 7.
