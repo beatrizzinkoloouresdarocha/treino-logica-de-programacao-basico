@@ -219,3 +219,6 @@ let soma_numeros_exercicio_26 = primeiro_numero_exercicio_26 + segundo_numero_ex
 let resultado_exercicio_26 = soma_numeros_exercicio_26 < 95;
 
 console.log('resultado_exercicio_26: ' + resultado_exercicio_26);
+
+//27)Verifique se um número é negativo ou igual a zero.
+
