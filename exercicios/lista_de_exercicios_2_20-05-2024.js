@@ -296,3 +296,5 @@ let numero3_exercicio_35 = 30;
 let media_exercicio_35 = (numero1_exercicio_35 + numero2_exercicio_35 + numero3_exercicio_35) / 3;
 let resultado_exercicio_35 = media_exercicio_35 > 20 && media_exercicio_35 < 40;
 console.log('resultado_exercicio_35: ' + resultado_exercicio_35);
+
+// 36) Verifique se a soma de dois números é exatamente 100.
