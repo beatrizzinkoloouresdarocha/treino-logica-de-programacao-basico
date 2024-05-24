@@ -196,5 +196,9 @@ let resultado = media < 30;
 
 console.log('resultado_exercicio_23: ' + resultado);
 
-//24)Verifique se um número é menor que 20 ou maior que 50.
+// 24) Verifique se um número é menor que 20 ou maior que 50.
 
+let primeiro_numero_exercicio_24 = 15;
+
+let resultado_exercicio_24 = primeiro_numero_exercicio_24 < 20 || primeiro_numero_exercicio_24 > 50;
+console.log('resultado_exercicio_24: ' + resultado_exercicio_24);
