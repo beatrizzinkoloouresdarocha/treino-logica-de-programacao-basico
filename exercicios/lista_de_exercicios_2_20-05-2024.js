@@ -312,3 +312,6 @@ let numero_exercicio_37 = 44;
 
 let resultado_exercicio_37 = numero_exercicio_37 % 2 === 0 && numero_exercicio_37 < 60;
 console.log('resultado_exercicio_37: ' + resultado_exercicio_37);
+
+// 38) Verifique se a diferença entre dois números é menor ou igual a 5
+
