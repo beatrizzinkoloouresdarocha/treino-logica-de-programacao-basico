@@ -289,3 +289,10 @@ console.log('resultado_exercicio_34: ' + resultado_exercicio_34);
 
 // 35) Verifique se a média de três números é maior que 20 e menor que 40.
 
+let numero1_exercicio_35 = 15;
+let numero2_exercicio_35 = 25;
+let numero3_exercicio_35 = 30;
+
+let media_exercicio_35 = (numero1_exercicio_35 + numero2_exercicio_35 + numero3_exercicio_35) / 3;
+let resultado_exercicio_35 = media_exercicio_35 > 20 && media_exercicio_35 < 40;
+console.log('resultado_exercicio_35: ' + resultado_exercicio_35);
