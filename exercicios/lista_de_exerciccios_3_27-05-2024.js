@@ -96,3 +96,6 @@ console.log("O produto dos números de 1 a 5 é: " + produto);
 for (let numero= 1; numero<21;numero++){
     console.log(numero)
 }
+
+//12)Calcular o valor total de uma série de produtos
+
