@@ -39,6 +39,6 @@ for (let numero = 1; numero <= 10; numero++) {
 
 //6)Impressão de números de 10 a 1
 
-for(let numero=10; numero<1;numero--){
-    console.log(numero)
+for (let numero = 10; numero > 0; numero--) {
+    console.log(numero);
 }
