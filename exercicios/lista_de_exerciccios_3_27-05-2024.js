@@ -14,3 +14,7 @@ for (let numero=1; numero <51;numero++) {
 
 //3)Tabuada do 7
 
+for (let i = 1; i <= 10; i++) {
+    let resultado = 7 * i;
+    console.log("7 x " + i + " = " + resultado);
+}
