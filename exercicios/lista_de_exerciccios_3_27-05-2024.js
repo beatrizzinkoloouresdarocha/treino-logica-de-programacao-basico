@@ -127,3 +127,6 @@ for (let numero = 1; numero <= 5; numero++) {
 }
 
 console.log("A soma dos cubos dos números de 1 a 5 é: " + somaCubos);
+
+//14)Calcular a média de uma série de notas
+
