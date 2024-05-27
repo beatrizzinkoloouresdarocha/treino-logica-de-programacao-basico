@@ -8,3 +8,6 @@ for( let numero=1; numero <101; numero++){
 
 //2)Impressão de números de 1 a 50
 
+for (let numero=1; numero <51;numero++) {
+    console.log(numero)
+}
