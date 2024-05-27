@@ -11,3 +11,5 @@ for( let numero=1; numero <101; numero++){
 for (let numero=1; numero <51;numero++) {
     console.log(numero)
 }
+
+//3)Tabuada do 7
