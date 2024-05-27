@@ -45,3 +45,16 @@ for (let numero = 10; numero > 0; numero--) {
 
 //7)Soma dos dígitos de um número
 
+for (let numero = 15; numero < 201; numero++) {
+    let somanumero = 0; 
+
+    let numeroString = numero.toString();
+
+    for (let i = 0; i < numeroString.length; i++) {
+        somanumero += parseInt(numeroString[i]);
+    }
+
+    console.log("Número: " + numero + ", Soma dos dígitos: " + somanumero);
+}
+
+
