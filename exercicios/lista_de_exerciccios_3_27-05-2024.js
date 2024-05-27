@@ -21,3 +21,11 @@ for (let i = 1; i <= 10; i++) {
 
 //4)Fatorial de um número
 
+let numero = 5; // Você pode alterar este valor ou usar prompt para obter a entrada do usuário
+let fatorial = 1;
+
+for (let i = 1; i <= numero; i++) {
+    fatorial *= i; // fatorial = fatorial * i
+}
+
+console.log("O fatorial de " + numero + " é " + fatorial);
