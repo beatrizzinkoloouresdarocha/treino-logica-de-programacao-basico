@@ -72,3 +72,11 @@ console.log(" média das notas: " + media);
 
 //9)Soma dos quadrados dos números de 1 a 10
 
+let somaQuadrados = 0;
+
+for (let numero = 1; numero <= 10; numero++) {
+    let quadrado = numero * numero;
+    somaQuadrados += quadrado;
+}
+
+console.log("A soma dos quadrados dos números de 1 a 10 é: " + somaQuadrados);
