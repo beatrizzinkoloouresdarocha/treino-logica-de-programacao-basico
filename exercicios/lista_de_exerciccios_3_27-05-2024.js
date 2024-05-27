@@ -117,3 +117,13 @@ console.log("O valor total dos produtos é: R$" + total);
 
 //13)Soma dos cubos dos números de 1 a 5
 
+let somaCubos = 0;
+
+for (let numero = 1; numero <= 5; numero++) {
+    
+    let cubo = numero * numero * numero;
+    
+    somaCubos += cubo;
+}
+
+console.log("A soma dos cubos dos números de 1 a 5 é: " + somaCubos);
