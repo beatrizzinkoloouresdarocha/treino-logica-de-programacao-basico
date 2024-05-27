@@ -42,3 +42,4 @@ for (let numero = 1; numero <= 10; numero++) {
 for (let numero = 10; numero > 0; numero--) {
     console.log(numero);
 }
+
