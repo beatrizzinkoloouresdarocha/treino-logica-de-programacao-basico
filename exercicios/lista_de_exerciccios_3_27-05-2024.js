@@ -159,3 +159,7 @@ for (let numero = 5; numero <= 50; numero += 5) {
     console.log(numero);
 }
 
+//exercicio de agora :Com while:
+
+//16)Contagem regressiva de 10 a 0
+
