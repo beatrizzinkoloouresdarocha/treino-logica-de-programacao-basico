@@ -44,3 +44,4 @@ for (let numero = 10; numero > 0; numero--) {
 }
 
 //7)Soma dos dígitos de um número
+
