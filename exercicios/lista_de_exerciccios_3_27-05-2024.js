@@ -57,4 +57,6 @@ for (let numero = 15; numero < 201; numero++) {
     console.log("Número: " + numero + ", Soma dos dígitos: " + somanumero);
 }
 
+//8)Calcular média de 5 notas
+
 
