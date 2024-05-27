@@ -13,3 +13,4 @@ for (let numero=1; numero <51;numero++) {
 }
 
 //3)Tabuada do 7
+
