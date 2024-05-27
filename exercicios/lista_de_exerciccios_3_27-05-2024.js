@@ -59,4 +59,14 @@ for (let numero = 15; numero < 201; numero++) {
 
 //8)Calcular média de 5 notas
 
+let notas = [50, 60, 70, 80, 85];
+let soma = 0;
+
+for (let i = 0; i < notas.length; i++) {
+    soma += notas[i];
+}
+
+let media = soma / notas.length;
+
+console.log(" média das notas: " + media);
 
