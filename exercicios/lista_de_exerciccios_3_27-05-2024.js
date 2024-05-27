@@ -114,3 +114,5 @@ for (let i = 0; i < produtos.length; i++) {
 }
 
 console.log("O valor total dos produtos é: R$" + total);
+
+//13)Soma dos cubos dos números de 1 a 5
