@@ -93,3 +93,6 @@ console.log("O produto dos números de 1 a 5 é: " + produto);
 
 //11)Impressão de números de 1 a 20
 
+for (let numero= 1; numero<21;numero++){
+    console.log(numero)
+}
