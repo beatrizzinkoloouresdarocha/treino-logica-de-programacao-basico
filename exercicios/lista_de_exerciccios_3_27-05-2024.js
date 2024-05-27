@@ -98,3 +98,4 @@ for (let numero= 1; numero<21;numero++){
 }
 
 //12)Calcular o valor total de uma série de produtos
+
