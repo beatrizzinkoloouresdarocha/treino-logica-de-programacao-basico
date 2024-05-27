@@ -130,3 +130,26 @@ console.log("A soma dos cubos dos números de 1 a 5 é: " + somaCubos);
 
 //14)Calcular a média de uma série de notas
 
+let primeira_nota = 55;
+let segunda_nota = 60;
+let terceira_nota = 65;
+let quarta_nota = 70;
+let quinta_nota = 75;
+let sexta_nota = 78;
+let setima_nota = 80;
+let oitava_nota = 82;
+let nona_nota = 90;
+let decima_nota = 100;
+
+let medianotas = [primeira_nota, segunda_nota, terceira_nota, quarta_nota, quinta_nota, sexta_nota, setima_nota, oitava_nota, nona_nota, decima_nota];
+
+let totalnotas = 0;
+
+for (let i = 0; i < medianotas.length; i++) {
+    totalnotas += medianotas[i];
+}
+
+let medianota = totalnotas / medianotas.length;
+
+console.log("A média das notas é: " + medianota);
+
