@@ -32,3 +32,7 @@ console.log("O fatorial de " + numero + " é " + fatorial);
 
 //5)Quadrados dos números de 1 a 10
 
+for (let numero = 1; numero <= 10; numero++) {
+    let quadrado = numero * numero;
+    console.log("O quadrado de " + numero + " é " + quadrado);
+}
