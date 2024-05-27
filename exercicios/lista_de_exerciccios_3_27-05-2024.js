@@ -70,3 +70,5 @@ let media = soma / notas.length;
 
 console.log(" média das notas: " + media);
 
+//9)Soma dos quadrados dos números de 1 a 10
+
