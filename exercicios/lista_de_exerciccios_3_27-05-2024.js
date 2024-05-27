@@ -99,3 +99,18 @@ for (let numero= 1; numero<21;numero++){
 
 //12)Calcular o valor total de uma série de produtos
 
+let primeiro_produto = 50;
+let segundo_produto = 60;
+let terceiro_produto = 65;
+let quarto_produto = 70;
+let quinto_produto = 80;
+
+let total = 0; 
+
+let produtos = [primeiro_produto, segundo_produto, terceiro_produto, quarto_produto, quinto_produto]; // Coloca os produtos em um array
+
+for (let i = 0; i < produtos.length; i++) {
+    total += produtos[i]; 
+}
+
+console.log("O valor total dos produtos é: R$" + total);
