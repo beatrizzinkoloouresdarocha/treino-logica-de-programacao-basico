@@ -29,3 +29,6 @@ for (let i = 1; i <= numero; i++) {
 }
 
 console.log("O fatorial de " + numero + " é " + fatorial);
+
+//5)Quadrados dos números de 1 a 10
+
