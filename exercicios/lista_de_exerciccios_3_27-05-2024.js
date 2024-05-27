@@ -83,3 +83,10 @@ console.log("A soma dos quadrados dos números de 1 a 10 é: " + somaQuadrados);
 
 //10)Produto de números de 1 a 5
 
+let produto = 1;
+
+for (let numero = 1; numero <= 5; numero++) {
+    produto *= numero;
+}
+
+console.log("O produto dos números de 1 a 5 é: " + produto);
