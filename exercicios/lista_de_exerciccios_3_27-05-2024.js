@@ -154,3 +154,4 @@ let medianota = totalnotas / medianotas.length;
 console.log("A média das notas é: " + medianota);
 
 //15)Imprimir números de 5 em 5 até 50
+
