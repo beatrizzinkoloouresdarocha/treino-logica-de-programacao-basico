@@ -163,3 +163,8 @@ for (let numero = 5; numero <= 50; numero += 5) {
 
 //16)Contagem regressiva de 10 a 0
 
+let Contagemnumero = 10; 
+while (Contagemnumero >= 0) { 
+    console.log(Contagemnumero);
+    Contagemnumero -= 1;
+}
