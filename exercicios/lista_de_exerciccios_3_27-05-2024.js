@@ -180,3 +180,6 @@ while (numerodasoma <= 20) {
 }
 
 console.log("A soma dos primeiros 20 números é: " + somadosprimeiros20numeros);
+
+//18)Multiplicação acumulada de 1 a 10
+
