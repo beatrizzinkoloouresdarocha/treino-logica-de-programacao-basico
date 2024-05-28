@@ -168,3 +168,6 @@ while (Contagemnumero >= 0) {
     console.log(Contagemnumero);
     Contagemnumero -= 1;
 }
+
+//17)Soma dos primeiros 20 números
+
