@@ -171,3 +171,12 @@ while (Contagemnumero >= 0) {
 
 //17)Soma dos primeiros 20 números
 
+let somadosprimeiros20numeros = 0; 
+let numerodasoma = 1; 
+
+while (numerodasoma <= 20) { 
+    somadosprimeiros20numeros += numerodasoma; 
+    numerodasoma += 1; 
+}
+
+console.log("A soma dos primeiros 20 números é: " + somadosprimeiros20numeros);
