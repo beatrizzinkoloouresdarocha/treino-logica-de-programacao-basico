@@ -169,29 +169,5 @@ while (Contagemnumero >= 0) {
     Contagemnumero -= 1;
 }
 
-//17)Soma dos primeiros 20 números
-
-let somadosprimeiros20numeros = 0; 
-let numerodasoma = 1; 
-
-while (numerodasoma <= 20) { 
-    somadosprimeiros20numeros += numerodasoma; 
-    numerodasoma += 1; 
-}
-
-console.log("A soma dos primeiros 20 números é: " + somadosprimeiros20numeros);
-
-//18)Multiplicação acumulada de 1 a 10
-
-let multiplicacaoAcumulada = 1;
-let numeroacomulado = 1;
-
-while (numeroacomulado <= 10) {
-    multiplicacaoAcumulada *= numeroacomulado; // Multiplica o valor acumulado pelo número atual
-    numeroacomulado += 1; // Incrementa o número em 1
-}
-
-console.log("A multiplicação acumulada de 1 a 10 é: " + multiplicacaoAcumulada);
-
-//19)Multiplicação acumulada de 1 a 10
+//17)Soma dos primeiros 50 números ímpares
 
