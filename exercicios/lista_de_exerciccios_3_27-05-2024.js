@@ -195,34 +195,3 @@ console.log("A multiplicação acumulada de 1 a 10 é: " + multiplicacaoAcumulad
 
 //19)Verificação de senha com 3 tentativas
 
-const readline = require('readline');
-
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout
-});
-
-let senhaCorreta = "12345"; // Senha correta definida
-let tentativas = 0; // Inicialização do contador de tentativas
-let maxTentativas = 3; // Número máximo de tentativas permitido
-
-function verificarSenha() {
-  if (tentativas < maxTentativas) {
-    rl.question("Digite a senha: ", function(senhaUsuario) {
-      if (senhaUsuario === senhaCorreta) {
-        console.log("Senha correta! Acesso permitido.");
-        rl.close();
-      } else {
-        tentativas++;
-        console.log("Senha incorreta. Tentativas restantes: " + (maxTentativas - tentativas));
-        verificarSenha();
-      }
-    });
-  } else {
-    console.log("Você excedeu o número máximo de tentativas. Acesso bloqueado.");
-    rl.close();
-  }
-}
-
-// Iniciar o processo de verificação da senha
-verificarSenha();
