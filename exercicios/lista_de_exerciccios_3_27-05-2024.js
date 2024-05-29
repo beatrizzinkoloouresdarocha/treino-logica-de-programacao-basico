@@ -184,3 +184,4 @@ for (let numero = 1; numero <= 20; numero++) {
 console.log("A soma dos primeiros 20 números é: " + somanumeros);
 
 //18)Multiplicação acumulada de 1 a 10
+
