@@ -171,3 +171,14 @@ while (Contagemnumero >= 0) {
 
 //17)Soma dos primeiros 20 números
 
+// Inicializa a variável para armazenar a soma
+let somanumeros = 0;
+
+// Usa um loop for para iterar de 1 a 20
+for (let numero = 1; numero <= 20; numero++) {
+    // Adiciona o número atual à variável soma
+    somanumeros += numero;
+}
+
+// Imprime a soma dos primeiros 20 números
+console.log("A soma dos primeiros 20 números é: " + somanumeros);
