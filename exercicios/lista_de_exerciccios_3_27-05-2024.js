@@ -169,16 +169,4 @@ while (Contagemnumero >= 0) {
     Contagemnumero -= 1;
 }
 
-//17)Soma dos primeiros 50 números ímpares
-
-let somanumeros = 0;
-let contador = 0;
-let numeroAtual = 1;
-
-while (contador < 50) {
-    soma += numeroAtual; // Adiciona o número ímpar atual à soma
-    contador++; // Incrementa o contador
-    numeroAtual += 2; // Passa para o próximo número ímpar
-}
-
-console.log("A soma dos primeiros 50 números ímpares é: " + soma);
+//17)Soma dos primeiros 20 números
