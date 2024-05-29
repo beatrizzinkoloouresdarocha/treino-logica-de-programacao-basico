@@ -185,3 +185,14 @@ console.log("A soma dos primeiros 20 números é: " + somanumeros);
 
 //18)Multiplicação acumulada de 1 a 10
 
+// Inicializa a variável para armazenar a multiplicação acumulada
+let multiplicacaoAcumulada = 1;
+
+// Usa um loop for para iterar de 1 a 10
+for (let numero = 1; numero <= 10; numero++) {
+    // Multiplica o valor acumulado pelo número atual
+    multiplicacaoAcumulada *= numero;
+}
+
+// Imprime a multiplicação acumulada de 1 a 10
+console.log("A multiplicação acumulada de 1 a 10 é: " + multiplicacaoAcumulada);
