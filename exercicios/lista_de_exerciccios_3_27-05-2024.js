@@ -193,5 +193,5 @@ while (numeroacomulado <= 10) {
 
 console.log("A multiplicação acumulada de 1 a 10 é: " + multiplicacaoAcumulada);
 
-//19)Verificação de senha com 3 tentativas
+//19)Multiplicação acumulada de 1 a 10
 
