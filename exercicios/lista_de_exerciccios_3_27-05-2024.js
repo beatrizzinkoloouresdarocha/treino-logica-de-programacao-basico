@@ -248,3 +248,6 @@ while(numero_nao_foi_adivinhado){
         numero_nao_foi_adivinhado = false
     }
 }
+
+//24)Impressão de números decrescentes até zero
+
