@@ -234,3 +234,6 @@ function verificarSenha() {
 }
 
 verificarSenha();
+
+//20)Adivinhação de número até acertar
+
