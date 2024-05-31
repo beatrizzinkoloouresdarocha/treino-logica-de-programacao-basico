@@ -197,6 +197,7 @@ for (let numero = 1; numero <= 10; numero++) {
 // Imprime a multiplicação acumulada de 1 a 10
 console.log("A multiplicação acumulada de 1 a 10 é: " + multiplicacaoAcumulada);
 
+const { write } = require('fs');
 //19)Verificação de senha com 3 tentativas
 
 const readline = require('readline');
@@ -235,19 +236,11 @@ function verificarSenha() {
 
 verificarSenha();
 
-//20)Adivinhação de número até acertar
-const modulo_readline = require('readline');
-
-let numero_digitado = 7;
-let_numero_adivinhar = 8;
-let numero_nao_foi_adivinhado = true
-
-while(numero_nao_foi_adivinhado){
-    if (numero_adivinhar == numero_digitado) {
-        console.log("Número correto!")
-        numero_nao_foi_adivinhado = false
-    }
-}
-
 //24)Impressão de números decrescentes até zero
 
+let numero_exercicio24=20;
+
+while (numero_exercicio24 >0){
+    console.log(numero_exercicio24)
+    numero_exercicio24 -= 1;
+}
