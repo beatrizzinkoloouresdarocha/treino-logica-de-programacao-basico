@@ -254,5 +254,5 @@ while (numero_exercicio25 >0){
     numero_exercicio25 -= 1;
 }
 
-//26Impressão de números de 1 a 20 em ordem crescente
+//26Impressão de números de 1 a 25 em ordem decrescente
 
