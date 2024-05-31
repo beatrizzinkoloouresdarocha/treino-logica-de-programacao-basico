@@ -247,4 +247,3 @@ while (numero_exercicio24 >0){
 
 //25)Impressão de números de 1 a 20 em ordem crescente
 
-
