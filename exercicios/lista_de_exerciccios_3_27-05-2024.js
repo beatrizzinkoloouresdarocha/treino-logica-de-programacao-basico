@@ -244,3 +244,6 @@ while (numero_exercicio24 >0){
     console.log(numero_exercicio24)
     numero_exercicio24 -= 1;
 }
+
+//25)Contagem de números positivos fornecidos pelo usuário
+
