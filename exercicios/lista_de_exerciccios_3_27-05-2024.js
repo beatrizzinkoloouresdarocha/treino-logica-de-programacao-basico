@@ -236,4 +236,15 @@ function verificarSenha() {
 verificarSenha();
 
 //20)Adivinhação de número até acertar
+const modulo_readline = require('readline');
 
+let numero_digitado = 7;
+let_numero_adivinhar = 8;
+let numero_nao_foi_adivinhado = true
+
+while(numero_nao_foi_adivinhado){
+    if (numero_adivinhar == numero_digitado) {
+        console.log("Número correto!")
+        numero_nao_foi_adivinhado = false
+    }
+}
