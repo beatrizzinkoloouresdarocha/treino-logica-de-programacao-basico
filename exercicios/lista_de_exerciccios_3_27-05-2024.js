@@ -245,5 +245,6 @@ while (numero_exercicio24 >0){
     numero_exercicio24 -= 1;
 }
 
-//25)Contagem de números positivos fornecidos pelo usuário
+//25)Impressão de números de 1 a 20 em ordem crescente
+
 
