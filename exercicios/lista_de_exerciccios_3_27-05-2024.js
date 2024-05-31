@@ -198,3 +198,4 @@ for (let numero = 1; numero <= 10; numero++) {
 console.log("A multiplicação acumulada de 1 a 10 é: " + multiplicacaoAcumulada);
 
 //19)Verificação de senha com 3 tentativas
+
