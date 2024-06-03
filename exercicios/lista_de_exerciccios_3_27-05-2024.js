@@ -281,3 +281,6 @@ while (numero_exercicio28 <= 30) {
     console.log(numero_exercicio28); // Imprime o valor atual de numero_exercicio28
     numero_exercicio28++; // Incrementa numero_exercicio28 em 1
 }
+
+//29)Impressão de números de 1 a 35 em ordem decrescente
+
