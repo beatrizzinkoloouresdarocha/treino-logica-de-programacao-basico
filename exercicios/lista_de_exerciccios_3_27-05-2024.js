@@ -274,3 +274,10 @@ while (numero_exercicio27 <= 20) {
 
 //28) Impressão de números de 1 a 30 em ordem crescente
 
+let numero_exercicio28 = 1; // Inicializa a variável com 1
+
+// Loop que continua enquanto numero_exercicio28 for menor ou igual a 30
+while (numero_exercicio28 <= 30) {
+    console.log(numero_exercicio28); // Imprime o valor atual de numero_exercicio28
+    numero_exercicio28++; // Incrementa numero_exercicio28 em 1
+}
