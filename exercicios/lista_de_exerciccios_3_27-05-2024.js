@@ -262,3 +262,5 @@ while (numero_exercicio26 >0){
     console.log(numero_exercicio26)
     numero_exercicio26  -= 1;
 }
+
+//27) Impressão de números de 1 a 20 em ordem crescente
