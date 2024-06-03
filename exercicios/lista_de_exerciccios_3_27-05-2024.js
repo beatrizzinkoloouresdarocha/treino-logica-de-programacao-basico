@@ -291,3 +291,5 @@ while (numero_exercicio29 > 0) {
     console.log(numero_exercicio29); // Imprime o valor atual de numero_exercicio29
     numero_exercicio29--; // Decrementa numero_exercicio29 em 1
 }
+
+//30))Contagem regressiva de 20 a 0
