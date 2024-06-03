@@ -292,5 +292,10 @@ while (numero_exercicio29 > 0) {
 
 //30)Impressão de números de 1 a 45 em ordem decrescente
 
- 
+let numero_exercicio30 = 45; // Inicializa a variável com 45
 
+// Loop que continua enquanto numero_exercicio30 for maior que 0
+while (numero_exercicio30 > 0) {
+    console.log(numero_exercicio30); // Imprime o valor atual de numero_exercicio30
+    numero_exercicio30--; // Decrementa numero_exercicio30 em 1
+}
