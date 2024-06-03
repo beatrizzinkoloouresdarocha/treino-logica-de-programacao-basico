@@ -292,5 +292,6 @@ while (numero_exercicio29 > 0) {
     numero_exercicio29--; // Decrementa numero_exercicio29 em 1
 }
 
-//30))Contagem regressiva de 20 a 0
+//30)Impressão de números de 1 a 40 em ordem crescente
+
 
