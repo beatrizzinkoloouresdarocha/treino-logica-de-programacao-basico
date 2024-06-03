@@ -256,3 +256,9 @@ while (numero_exercicio25 >0){
 
 //26Impressão de números de 1 a 25 em ordem decrescente
 
+let numero_exercicio26=25;
+
+while (numero_exercicio26 >0){
+    console.log(numero_exercicio26)
+    numero_exercicio26  -= 1;
+}
