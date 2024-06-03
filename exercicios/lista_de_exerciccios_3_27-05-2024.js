@@ -265,3 +265,9 @@ while (numero_exercicio26 >0){
 
 //27) Impressão de números de 1 a 20 em ordem crescente
 
+let numero_exercicio27 = 1;
+
+while (numero_exercicio27 <= 20) {
+    console.log(numero_exercicio27);
+    numero_exercicio27++;
+}
